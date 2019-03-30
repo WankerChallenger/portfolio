@@ -15,7 +15,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Kenedy Personal</title>
+	<title>PortFolio Khinache Bilel</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
@@ -52,10 +52,10 @@
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
-						<li class=""><a class="active" href="index.php">Home</a></li>
-						<li><a href="about.php">About</a></li>
+						<li class=""><a class="active" href="index.php">Accueil</a></li>
+						<li><a href="about.php">À propos</a></li>
 						<li><a href="portfolio.php">Portfolio</a></li>
-						<li class="menu-has-children"><a href="#">Pages</a>
+						<li class="menu-has-children"><a href="#">En cours...</a>
 							<ul>
 								<li><a href="elements.php">Elements</a></li>
 								<li><a href="contact.php">Contact</a></li>
@@ -63,12 +63,7 @@
 								<li><a href="portfolio-details.php">Portfolio Details</a></li>
 							</ul>
 						</li>
-						<li class="menu-has-children"><a href="">Blog</a>
-							<ul>
-								<li><a href="blog-home.php">Blog Home</a></li>
-								<li><a href="blog-single.php">Blog Single</a></li>
-							</ul>
-						</li>
+
 					</ul>
 				</nav>
 			</div>
@@ -82,22 +77,23 @@
 		<div class="container">
 			<div class="row fullscreen d-flex align-items-center">
 				<div class="banner-content col-lg-6 col-md-12 justify-content-center ">
-					<div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div>
-					<h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Kenedy Jackson</h1>
-					<div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="2.1s">
-						Senior Creative
-						<span class="designer">Designer</span>
-						and Content
-						<span class="developer">Developer</span>
-					</div>
-					<a href="#" class="primary-btn" data-text="Hire Me">
-						<span>H</span>
-						<span>i</span>
-						<span>r</span>
-						<span>e</span>
-						<span> </span>
-						<span>M</span>
-						<span>e</span>
+					<div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">C'est moi</div>
+					<h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Khinache Bilel</h1>
+					<a href="#" class="primary-btn" data-text="Embauchez moi">
+                        <span>E</span>
+                        <span>m</span>
+                        <span>b</span>
+                        <span>a</span>
+                        <span>u</span>
+                        <span>c</span>
+                        <span>h</span>
+                        <span>e</span>
+                        <span>z</span>
+
+                        <span> </span>
+                        <span>M</span>
+                        <span>o</span>
+                        <span>i</span>
 					</a>
 				</div>
 				<div class="banner-img col-lg-6 col-md-6 align-self-end">
@@ -109,33 +105,6 @@
 	<!-- End banner Area -->
 
 
-	<!-- Start brands Area -->
-	<section class="brands-area">
-		<div class="container">
-			<div class="brand-wrap">
-				<div class="row align-items-center active-brand-carusel justify-content-start no-gutters">
-					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b1.png" alt=""></a>
-					</div>
-					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b2.png" alt=""></a>
-					</div>
-					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b3.png" alt=""></a>
-					</div>
-					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b4.png" alt=""></a>
-					</div>
-					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b5.png" alt=""></a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End brands Area -->
-
-
 	<!-- Start About Area -->
 	<section class="about-area section-gap">
 		<div class="container">
@@ -145,264 +114,22 @@
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
-						<h2>about myselt</h2>
+						<h2>À propos de moi</h2>
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-							inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the
-							workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior
-							is often laughed. inappropriate behavior is often laughed off as “boys will be boys,” women face higher.
+							Mettre du bla bla à propos de moi
 						</p>
-						<p>That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often
-							laughed.
+						<p>Et encore plus de bla bla
 						</p>
 					</div>
-					<a href="#" class="primary-btn white" data-text="More Info">
-						<span>M</span>
-						<span>o</span>
-						<span>r</span>
-						<span>e</span>
-						<span> </span>
-						<span>I</span>
-						<span>n</span>
-						<span>f</span>
-						<span>o</span>
-					</a>
-					<a href="#" class="primary-btn" data-text="Resume">
-						<span>R</span>
-						<span>e</span>
-						<span>s</span>
-						<span>u</span>
-						<span>m</span>
-						<span>e</span>
-					</a>
+
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- End About Area -->
 
-
-	<!-- Start Work Area Area -->
-	<section class="work-area section-gap-top section-gap-bottom-90" id="work">
-		<div class="container">
-			<div class="row d-flex justify-content-between align-items-end mb-80">
-				<div class="col-lg-6">
-					<div class="section-title">
-						<h2>Latest Works</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
-					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<div class="filters">
-						<ul>
-							<li class="active" data-filter=".all">All Categories</li>
-							<li data-filter=".branding">Branding</li>
-							<li data-filter=".creative">Creative Work</li>
-							<li data-filter=".web-design">Web Design</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-
-			<div class="filters-content">
-				<div class="row grid">
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w1.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
-							</div>
-							<a class="overlay" href="portfolio-details.php"></a>
-						</div>
-					</div>
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w2.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
-							</div>
-							<a class="overlay" href="portfolio-details.php"></a>
-						</div>
-					</div>
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w3.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
-							</div>
-							<a class="overlay" href="portfolio-details.php"></a>
-						</div>
-					</div>
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w6.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
-							</div>
-							<a class="overlay" href="portfolio-details.php"></a>
-						</div>
-					</div>
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w4.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
-							</div>
-							<a class="overlay" href="portfolio-details.php"></a>
-						</div>
-					</div>
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w5.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
-							</div>
-							<a class="overlay" href="portfolio-details.php"></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Work Area Area -->
-
-
-	<!-- Start Job History Area Area -->
-	<section class="job-area section-gap-top section-gap-bottom-90">
-		<div class="container">
-			<div class="row d-flex">
-				<div class="col-lg-12">
-					<div class="section-title">
-						<h2>Job History</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
-					</div>
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-lg-6">
-					<div class="single-job">
-						<div class="top-sec d-flex justify-content-between">
-							<div class="top-left">
-								<h4>Senior Creative Design</h4>
-								<p>Old Bird IT, New Yorkt</p>
-							</div>
-							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
-								</a>
-							</div>
-						</div>
-						<div class="bottom-sec wow fadeIn" data-wow-duration="2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<div class="single-job">
-						<div class="top-sec d-flex justify-content-between">
-							<div class="top-left">
-								<h4>Senior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
-							</div>
-							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
-								</a>
-							</div>
-						</div>
-						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<div class="single-job">
-						<div class="top-sec d-flex justify-content-between">
-							<div class="top-left">
-								<h4>Junior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
-							</div>
-							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
-								</a>
-							</div>
-						</div>
-						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<div class="single-job">
-						<div class="top-sec d-flex justify-content-between">
-							<div class="top-left">
-								<h4>Intern Designer</h4>
-								<p>Old Bird IT, New Yorkt</p>
-							</div>
-							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
-								</a>
-							</div>
-						</div>
-						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Job Historyt Area Area -->
 
 
 	<!-- Start Service Area -->
@@ -411,7 +138,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="section-title">
-						<h2>Service Offers</h2>
+						<h2>Veille Technologique</h2>
 						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
 							some for as low as $.17 each.</p>
 					</div>
@@ -457,114 +184,47 @@
 	<!-- End Service Area -->
 
 
-	<!-- Start Testimonials Area -->
-	<section class="testimonials_area section-gap">
-		<div class="container">
-			<div class="testi_slider owl-carousel">
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Testimonials Area -->
-
-
 	<!-- Start Contact Area -->
 	<section class="contact-area section-gap">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="contact-title">
-						<h2>Contact Me</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h2>Contactez moi</h2>
 					</div>
 				</div>
 			</div>
 
 			<div class="row mt-80">
-				<div class="col-lg-4 col-md-4">
+				<div class="col">
 					<div class="contact-box">
-						<h4>+44 2365 654 8962</h4>
+						<h4>000000000000</h4>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4">
+				<div class="col">
 					<div class="contact-box">
-						<h4>information@colorlib.com</h4>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4">
-					<div class="contact-box">
-						<h4>kenedyjackson.me</h4>
+						<h4>test@test.fr</h4>
 					</div>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-lg-12 text-center">
-					<a href="#" class="primary-btn mt-50" data-text="Hire Me">
-						<span>H</span>
-						<span>i</span>
-						<span>r</span>
-						<span>e</span>
-						<span> </span>
-						<span>M</span>
-						<span>e</span>
+					<a href="#" class="primary-btn mt-50" data-text="Embauchez moi">
+                        <span>E</span>
+                        <span>m</span>
+                        <span>b</span>
+                        <span>a</span>
+                        <span>u</span>
+                        <span>c</span>
+                        <span>h</span>
+                        <span>e</span>
+                        <span>z</span>
+
+                        <span> </span>
+                        <span>M</span>
+                        <span>o</span>
+                        <span>i</span>
 					</a>
 				</div>
 			</div>
@@ -588,8 +248,7 @@
 						<div class="footer-social">
 							<a href="#"><i class="fa fa-facebook"></i></a>
 							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a>
+
 						</div>
 					</div>
 				</div>
