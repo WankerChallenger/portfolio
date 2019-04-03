@@ -54,13 +54,17 @@
                 <ul class="nav-menu">
                     <li class=""><a class="active" href="index.php">Accueil</a></li>
                     <li><a href="about.php">À propos</a></li>
-                    <li><a href="portfolio.php">Portfolio</a></li>
-                    <li class="menu-has-children"><a href="#">En cours...</a>
+                    <li><a href="compétence.php">Compétences</a></li>
+                    <li class="menu-has-children"><a href="#">E6</a>
                         <ul>
-                            <li><a href="elements.php">Elements</a></li>
-                            <li><a href="contact.php">Contact</a></li>
-                            <li><a href="services.php">Service</a></li>
-                            <li><a href="portfolio-details.php">Portfolio Details</a></li>
+                            <li><a href="veilletechno.php">Veille Technologique</a></li>
+                            <li><a href="etudecompo.php">Etude d'un composant</a></li>
+                            <li><a href="ppe1.php">PPE1</a></li>
+                            <li><a href="ppe2.php">PP2</a></li>
+                            <li><a href="stage1.php">Stage 1</a></li>
+                            <li><a href="stage2.php">Stage 2</a></li>
+
+
                         </ul>
                     </li>
 

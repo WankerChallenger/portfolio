@@ -54,14 +54,18 @@
 					<ul class="nav-menu">
 						<li class=""><a class="active" href="index.php">Accueil</a></li>
 						<li><a href="about.php">À propos</a></li>
-						<li><a href="portfolio.php">Portfolio</a></li>
-						<li class="menu-has-children"><a href="#">En cours...</a>
-							<ul>
-								<li><a href="elements.php">Elements</a></li>
-								<li><a href="contact.php">Contact</a></li>
-								<li><a href="services.php">Service</a></li>
-								<li><a href="portfolio-details.php">Portfolio Details</a></li>
-							</ul>
+						<li><a href="compétence.php">Compétences</a></li>
+						<li class="menu-has-children"><a href="#">E6</a>
+                            <ul>
+                                <li><a href="veilletechno.php">Veille Technologique</a></li>
+                                <li><a href="etudecompo.php">Etude d'un composant</a></li>
+                                <li><a href="ppe1.php">PPE1</a></li>
+                                <li><a href="ppe2.php">PP2</a></li>
+                                <li><a href="stage1.php">Stage 1</a></li>
+                                <li><a href="stage2.php">Stage 2</a></li>
+
+
+                            </ul>
 						</li>
 
 					</ul>
@@ -138,9 +142,8 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="section-title">
-						<h2>Veille Technologique</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h2>Centres d'intérêts</h2>
+
 					</div>
 				</div>
 			</div>
@@ -157,7 +160,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 						<span class="lnr lnr-laptop-phone"></span>
-						<h4><span>Application</span> Development
+						<h4><span>Développement</span> D'application
 						</h4>
 						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
 					</div>
@@ -165,7 +168,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
 						<span class="lnr lnr-database"></span>
-						<h4><span>Web</span> Development
+						<h4><span>Base de </span> données
 						</h4>
 						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
 					</div>
@@ -173,7 +176,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
 						<span class="lnr lnr-chart-bars"></span>
-						<h4><span>Web</span> Development
+						<h4><span>Data</span> Analystics
 						</h4>
 						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
 					</div>
@@ -198,12 +201,12 @@
 			<div class="row mt-80">
 				<div class="col">
 					<div class="contact-box">
-						<h4>000000000000</h4>
+						<h4>+33 7 77 86 81 02</h4>
 					</div>
 				</div>
 				<div class="col">
 					<div class="contact-box">
-						<h4>test@test.fr</h4>
+						<h4>khinacheb.pro@gmail.com</h4>
 					</div>
 				</div>
 			</div>
@@ -246,9 +249,7 @@
 							<h4>Follow Me</h4>
 						</div>
 						<div class="footer-social">
-							<a href="#"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
-
+							<a href="https://www.linkedin.com/in/bilel-khinache-a70322166/"><i class="fa fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>

@@ -10,12 +10,11 @@ require("header.php");
 			<div class="row d-flex align-items-center justify-content-center">
 				<div class="about-content col-lg-12">
 					<h1 class="text-white">
-						About Us
+						Qui suis-je?
 					</h1>
 					<p class="link-nav">
 						<span class="box">
-							<a href="index.php">Home </a>
-							<a href="about.php">About</a></p>
+							<a href="index.php">Accueil </a>
 					</span>
 				</div>
 			</div>
@@ -32,37 +31,16 @@ require("header.php");
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
-						<h2>about myselt</h2>
+						<h2>À propos de moi</h2>
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-							inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the
-							workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior
-							is often laughed. inappropriate behavior is often laughed off as “boys will be boys,” women face higher.
+							Bla bla plus précis
 						</p>
-						<p>That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often
-							laughed.
+						<p>encore plus de précision
+
 						</p>
 					</div>
-					<a href="#" class="primary-btn white" data-text="More Info">
-						<span>M</span>
-						<span>o</span>
-						<span>r</span>
-						<span>e</span>
-						<span> </span>
-						<span>I</span>
-						<span>n</span>
-						<span>f</span>
-						<span>o</span>
-					</a>
-					<a href="#" class="primary-btn" data-text="Resume">
-						<span>R</span>
-						<span>e</span>
-						<span>s</span>
-						<span>u</span>
-						<span>m</span>
-						<span>e</span>
-					</a>
 				</div>
 			</div>
 		</div>
@@ -75,9 +53,7 @@ require("header.php");
 			<div class="row d-flex">
 				<div class="col-lg-12">
 					<div class="section-title">
-						<h2>Job History</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h2>Mes Stages</h2>
 					</div>
 				</div>
 			</div>
@@ -87,21 +63,12 @@ require("header.php");
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Senior Creative Design</h4>
-								<p>Old Bird IT, New Yorkt</p>
-							</div>
-							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
-								</a>
+								<h4>Développeur Logiciel Stagiaire</h4>
+								<p>BBND, Lille</p>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							Courte explication du stage
 						</div>
 					</div>
 				</div>
@@ -110,21 +77,12 @@ require("header.php");
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Senior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
-							</div>
-							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
-								</a>
+								<h4>Développeur Web/Logiciel Stagiaire</h4>
+								<p>Satime, Guignies</p>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+                            Courte explication du stage
 						</div>
 					</div>
 				</div>
@@ -133,204 +91,30 @@ require("header.php");
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Junior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Développeur Web Stagiaire</h4>
+								<p>La Villa Fleurie, Guignies</p>
 							</div>
-							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
-								</a>
-							</div>
+
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+                            Courte explication du stage
 						</div>
 					</div>
 				</div>
 
-				<div class="col-lg-6">
-					<div class="single-job">
-						<div class="top-sec d-flex justify-content-between">
-							<div class="top-left">
-								<h4>Intern Designer</h4>
-								<p>Old Bird IT, New Yorkt</p>
-							</div>
-							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
-								</a>
-							</div>
-						</div>
-						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	</section>
 	<!-- End Job Historyt Area Area -->
 
-	<!-- Start Testimonials Area -->
-	<section class="testimonials_area section-gap">
-		<div class="container">
-			<div class="testi_slider owl-carousel">
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Testimonials Area -->
 
-	<!-- Start Contact Area -->
-	<section class="contact-area section-gap">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<div class="contact-title">
-						<h2>Contact Me</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
-					</div>
-				</div>
-			</div>
 
-			<div class="row mt-80">
-				<div class="col-lg-4 col-md-4">
-					<div class="contact-box">
-						<h4>+44 2365 654 8962</h4>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4">
-					<div class="contact-box">
-						<h4>information@colorlib.com</h4>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4">
-					<div class="contact-box">
-						<h4>kenedyjackson.me</h4>
-					</div>
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-lg-12 text-center">
-					<a href="#" class="primary-btn mt-50" data-text="Hire Me">
-						<span>H</span>
-						<span>i</span>
-						<span>r</span>
-						<span>e</span>
-						<span> </span>
-						<span>M</span>
-						<span>e</span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Contact Area -->
-
-	<!-- start footer Area -->
-	<footer class="footer-area">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12">
-					<div class="footer-top flex-column">
-						<div class="footer-logo">
-							<a href="#">
-								<img src="img/logo.png" alt="">
-							</a>
-							<h4>Follow Me</h4>
-						</div>
-						<div class="footer-social">
-							<a href="#"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row footer-bottom justify-content-center">
-				<p class="col-lg-8 col-sm-12 footer-text">
-					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-			</div>
-		</div>
-	</footer>
-	<!-- End footer Area -->
-
-	<!-- ####################### Start Scroll to Top Area ####################### -->
-	<div id="back-top">
-		<a title="Go to Top" href="#">
-			<i class="lnr lnr-arrow-up"></i>
-		</a>
-	</div>
-	<!-- ####################### End Scroll to Top Area ####################### -->
+<?php
+require ("contact2.php")
+?>
+<?php
+require ("footer.php")
+?>
 
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
