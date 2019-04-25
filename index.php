@@ -1,79 +1,6 @@
-<!DOCTYPE html>
-<html lang="zxx" class="no-js">
-
-<head>
-	<!-- Mobile Specific Meta -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<!-- Favicon-->
-	<link rel="shortcut icon" href="img/fav.png">
-	<!-- Author Meta -->
-	<meta name="author" content="colorlib">
-	<!-- Meta Description -->
-	<meta name="description" content="">
-	<!-- Meta Keyword -->
-	<meta name="keywords" content="">
-	<!-- meta character set -->
-	<meta charset="UTF-8">
-	<!-- Site Title -->
-	<title>PortFolio Khinache Bilel</title>
-
-	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
-	<!--
-			CSS
-			============================================= -->
-	<link rel="stylesheet" href="css/linearicons.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="css/nice-select.css">
-	<link rel="stylesheet" href="css/animate.min.css">
-	<link rel="stylesheet" href="css/owl.carousel.css">
-	<link rel="stylesheet" href="css/main.css">
-</head>
-
-<body>
-
-	<!-- Start Preloader Area -->
-	<div class="preloader-area">
-		<div class="loader-box">
-			<div class="loader"></div>
-		</div>
-	</div>
-	<!-- End Preloader Area -->
-
-
-	<!-- Start Header Area -->
-	<header id="header">
-		<div class="container main-menu">
-			<div class="row align-items-center d-flex">
-				<div id="logo">
-					<a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
-				</div>
-				<nav id="nav-menu-container">
-					<ul class="nav-menu">
-						<li class=""><a class="active" href="index.php">Accueil</a></li>
-						<li><a href="about.php">À propos</a></li>
-						<li><a href="compétence.php">Compétences</a></li>
-						<li class="menu-has-children"><a href="#">E6</a>
-                            <ul>
-                                <li><a href="veilletechno.php">Veille Technologique</a></li>
-                                <li><a href="etudecompo.php">Etude d'un composant</a></li>
-                                <li><a href="ppe1.php">PPE1</a></li>
-                                <li><a href="ppe2.php">PP2</a></li>
-                                <li><a href="stage1.php">Stage 1</a></li>
-                                <li><a href="stage2.php">Stage 2</a></li>
-
-
-                            </ul>
-						</li>
-
-					</ul>
-				</nav>
-			</div>
-		</div>
-	</header>
-	<!-- End Header Area -->
+<?php
+require ("header.php");
+?>
 
 
 	<!-- start banner Area -->
@@ -122,9 +49,9 @@
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-							Mettre du bla bla à propos de moi
-						</p>
-						<p>Et encore plus de bla bla
+                            Je suis actuellement en deuxième année d'un BTS SIO (Services Informatiques aux Organisations) en spécialité SLAM (Solutions Logicielles et Applications Métiers)
+                             au sein du lycée Gaston Berger situé à Lille (59). <br>
+
 						</p>
 					</div>
 
@@ -140,7 +67,7 @@
 	<section class="service-area section-gap">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-12">
+				<div class="col">
 					<div class="section-title">
 						<h2>Centres d'intérêts</h2>
 
@@ -154,7 +81,7 @@
 						<h4>
 							<span>Web</span> Design
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -162,7 +89,7 @@
 						<span class="lnr lnr-laptop-phone"></span>
 						<h4><span>Développement</span> D'application
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -170,15 +97,7 @@
 						<span class="lnr lnr-database"></span>
 						<h4><span>Base de </span> données
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
-						<span class="lnr lnr-chart-bars"></span>
-						<h4><span>Data</span> Analystics
-						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p></p>
 					</div>
 				</div>
 			</div>
@@ -249,7 +168,7 @@
 							<h4>Follow Me</h4>
 						</div>
 						<div class="footer-social">
-							<a href="https://www.linkedin.com/in/bilel-khinache-a70322166/"><i class="fa fa-linkedin"></i></a>
+							<a href="https://www.linkedin.com/in/bilel-khinache-a70322166/" target="_blank"><i class="fa fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>

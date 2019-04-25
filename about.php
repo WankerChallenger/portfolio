@@ -68,7 +68,10 @@ require("header.php");
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s">
-							Courte explication du stage
+                            - Développement d’une application Desktop (Fidscan)<br>
+                            - Mise en place de tests/Gestion des erreurs<br>
+                            - Ajout de nouvelles fonctionnalités<br>
+                            - Cyber-sécurité ( Stéganographie )<br>
 						</div>
 					</div>
 				</div>
@@ -82,7 +85,10 @@ require("header.php");
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-                            Courte explication du stage
+                            - Développement du site web<br>
+                            - Création de planning automatisé<br>
+                            - Mise en place et configuration de matériels réseaux<br>
+                            - Création d’une base de données d’ouvriers<br>
 						</div>
 					</div>
 				</div>
@@ -97,7 +103,10 @@ require("header.php");
 
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-                            Courte explication du stage
+                            - Développement du site web<br>
+                            - Mise en place et configuration de matériels réseaux<br>
+                            - Mise en place d’une pointeuse en réseau<br>
+                            - Maintenance informatique<br>
 						</div>
 					</div>
 				</div>

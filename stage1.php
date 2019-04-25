@@ -9,7 +9,7 @@ require("header.php");
         <div class="row d-flex justify-content-between align-items-end mb-80">
             <div class="col-lg-6">
                 <div class="section-title">
-                    <h2>Stage 1</h2>
+                    <h2>Satim / La Villa Fleurie</h2>
                     <p>Expliquer le stage de première année et mettre des preuves liées aux compétences </p>
                 </div>
             </div>

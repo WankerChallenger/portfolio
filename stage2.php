@@ -9,18 +9,23 @@ require("header.php");
         <div class="row d-flex justify-content-between align-items-end mb-80">
             <div class="col">
                 <div class="section-title">
-                    <h2>Stage chez BBND</h2>
-                    <p>Lors de ma deuxième j'ai effectué mon stage au sein de l'entreprise BBND ( Big Bang Network Developement )
-                        à Lille, BBND est une agence SSII dont l'activité s'oriente autour du développement informatique et de la communication multisupport.</p>
-                    <p>J'ai effectué 7 semaines au sein de leur structure lors de ce stage ( 07/01/2019 au 22/02/2019 ).
-                        Au cours de cette période j'ai eu l'occasion de travailler sur différents projets tel que une application lourde faite en java ( Fidscan )
-                    </p>
-                </div>
-            </div>
 
-            <div class= col align="center">
-                <div class="section-title">
-                    <img src="img/logobbnd.jpg">
+                    <h2>Stage chez BBND</h2>
+                    <img src="img/logobbnd.jpg"align="right">
+                    <p>Lors de ma deuxième j'ai effectué mon stage au sein de l'entreprise BBND ( Big Bang Network Developement )
+                        à Lille, BBND est une agence SSII dont l'activité s'oriente autour du développement informatique et de la communication multisupport.
+                        J'ai effectué 7 semaines au sein de leur structure lors de ce stage ( 07/01/2019 au 22/02/2019 ).
+                        Au cours de cette période j'ai eu l'occasion de travailler sur différents projets tel que une application lourde faite en java (Fidscan)
+                    </p>
+                    <br>
+                    <div class="row" >
+                        <div class="col">
+                            <img src="img/fid.png" height="500" width="700">
+                        </div>
+                        <p>
+                            
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
