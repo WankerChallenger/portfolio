@@ -7,97 +7,28 @@ require("header.php");
 <section class="work-area section-gap-top section-gap-bottom-90" id="work">
     <div class="container">
         <div class="row d-flex justify-content-between align-items-end mb-80">
-            <div class="col-lg-6">
+            <div class="col">
                 <div class="section-title">
-                    <h2>Stage 2</h2>
-                    <p>Expliquer le stage de deuxiéme année et mettre des preuves liées aux compétences</p>
+                    <h2>Stage chez BBND</h2>
+                    <p>Lors de ma deuxième j'ai effectué mon stage au sein de l'entreprise BBND ( Big Bang Network Developement )
+                        à Lille, BBND est une agence SSII dont l'activité s'oriente autour du développement informatique et de la communication multisupport.</p>
+                    <p>J'ai effectué 7 semaines au sein de leur structure lors de ce stage ( 07/01/2019 au 22/02/2019 ).
+                        Au cours de cette période j'ai eu l'occasion de travailler sur différents projets tel que une application lourde faite en java ( Fidscan )
+                    </p>
                 </div>
             </div>
-        </div>
 
-        <div class="filters-content">
-            <div class="row grid">
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w1.jpg" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
-                    </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w2.jpg" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
-                    </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all branding web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w3.jpg" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
-                    </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w6.jpg" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
-                    </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w4.jpg" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
-                    </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w5.jpg" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
-                    </div>
+            <div class= col align="center">
+                <div class="section-title">
+                    <img src="img/logobbnd.jpg">
                 </div>
             </div>
         </div>
     </div>
+
+
+
+
 </section>
 <!-- End Work Area Area -->
 
