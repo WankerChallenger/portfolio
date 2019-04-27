@@ -7,97 +7,92 @@ require("header.php");
 <section class="work-area section-gap-top section-gap-bottom-90" id="work">
     <div class="container">
         <div class="row d-flex justify-content-between align-items-end mb-80">
-            <div class="col-lg-6">
+            <div class="col">
                 <div class="section-title">
-                    <h2>Satim / La Villa Fleurie</h2>
-                    <p>Expliquer le stage de première année et mettre des preuves liées aux compétences </p>
-                </div>
-            </div>
-        </div>
 
-        <div class="filters-content">
-            <div class="row grid">
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w1.jpg" alt="">
+                    <h2>Stage chez Satim/La Villa Fleurie</h2>
+                    <img src="img/logosatim.png"align="right" height="200" width="400">
+
+                    <p>Lors de ma première année j'ai effectué mon stage au sein de l'entreprise Satim à Courcelles (Belgique) , Satim est une entreprise
+                        J'ai effectué 7 semaines au sein de leur structure lors de ce stage ( 14/05/2018 au 29/06/2018).
+                        Au cours de cette période j'ai eu l'occasion de travailler sur différents projets comme la création d'un planning automatique via Excel
+                    </p>
+
+                    <br>
+                    <h2>Fidscan</h2>
+
+                    <div class="row" >
+                        <div class="col">
+                            <img src="img/fid.png" height="500" width="700">
                         </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
+
+                        <br> Fidscan est une application dites desktop c'est-à-dire qu'elle est utilisable uniquement sur ordinateur.
+                        <br>Le but de Fidscan est de pouvoir permettre aux entreprises de collecter les données de leurs clients via un QR code afin de leur proposer un programme de fidélité spécifique ou juste afin de pouvoir comptabiliser
+                        ses clients pour des futurs démarches.
+                        <br>Elle permet aussi aux particuliers d'éviter d'oublier leurs cartes de fidélités mais aussi de pouvoir créer rapidement sa carte juste en scannant le QR code de l'entreprise utilisant l'application.
+                        <br>Pour cela il existe aussi une application mobile qui est en cours de traitement chez BBND.
                     </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w2.jpg" alt="">
+
+                    <br>
+                    <div class="row">
+                        <div class="col">
+                            <img src="img/fid1.png" height="700" width="800">
                         </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
+                        <br>
+                        Pour commencer l'entreprise souhaitant utiliser Fidscan doit s'inscrire en renseignant diverses informations telles que son numéro de Siret, son code APE ou NAF, son adresse, etc.<br>
+                        En s'enregistrant sur l'application l'entreprise accédera à son panneau de controle avec diverses options telle que le choix du service quelle souhaite proposer ainsi que son QR code ou encore les données de ses clients.
                     </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all branding web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w3.jpg" alt="">
+                    <br>
+
+                    <div class="row">
+                        <div class="col">
+                            <img src="img/dbconnectfidmodif.png" height="500" width="500">
+                            <img src="img/mainfidmodif.png" height="500" width="500">
                         </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
+                        <br>
+                        Sur la première image, il s'agit du système de connexion à la base de données de l'application Fidscan avec l'adresse en local de celle-ci ainsi que les identifiants de connexion et le retour d'un message en cas d'erreur.
+                        <br>
+                        Sur la deuxième image il s'agit de la classe Main du programme c'est à dire celle qui lance la page de connexion de l'application Fidscan avec une requête permettant de récupérer toutes les données de la table entreprise avec les identifiants associé aux comptes.
                     </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w6.jpg" alt="">
+                    <br>
+
+                    <div class="row">
+                        <div class="col">
+                            <img src="img/bddfidscan.png" height="400" width="1500">
+
                         </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
+                        <br>
+                        Voici la structure de la base de donnée qui contient 5 tables: <br>
+                        - La table Login qui permet d'enregistrer/Stocker les identifiants de connexion des entreprises (Login et mot de passe)<br>
+                        - La table Pro qui contient toutes les informations de l'entreprise (Numéro de siret, code NAF ou APE, etc.)<br>
+                        - La table User qui contient les données des clients ayant scanné le QR code de l'entreprise<br>
+                        - La table champsaddlibre qui permet à l'entreprise de choisir les champs de ses clients qu'elle souhaite récupérer dans le cadre de démarches commercial ou autres<br>
+                        - La table Userregister qui permet au client de renseigner ses informations lors de son inscription.
+                        <br>
+                        <br>
+
+                        <h3>Pour conclure</h3>
+
+                        Fidscan est une application qui peut être utile du côté entreprise dans le cadre de la fidélisation de ses clients, c'est une application
+                        avec un certains potentiel, pour le moment Fidscan n'est pas terminé car de nombreux projets sont en cours chez BBND.
+                        Fidscan n'est pas une nouveauté en soit par exemple nous avons deja le wallet de chez Apple dans ses Iphones, en revanche
+                        Fidscan apporte la fonctionnalité de scanner le QR code de l'entreprise afin de facilité et de rendre plus rapide la récolte de données pour les professionnels.
+
+                        <br>
+                        <br>
+
+                        <h2>Stéganographie</h2>
+
                     </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w4.jpg" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
-                    </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/w5.jpg" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>2D Vinyl Design</h4>
-                            <div class="cat">Client Project</div>
-                        </div>
-                        <a class="overlay" href="ppe2.php"></a>
-                    </div>
+
                 </div>
             </div>
         </div>
     </div>
+
+
+
+
 </section>
 <!-- End Work Area Area -->
 

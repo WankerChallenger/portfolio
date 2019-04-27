@@ -19,6 +19,7 @@ require("header.php");
                     </p>
 
                     <br>
+                    <h2>Fidscan</h2>
 
                     <div class="row" >
                         <div class="col">
@@ -68,6 +69,53 @@ require("header.php");
                         - La table champsaddlibre qui permet à l'entreprise de choisir les champs de ses clients qu'elle souhaite récupérer dans le cadre de démarches commercial ou autres<br>
                         - La table Userregister qui permet au client de renseigner ses informations lors de son inscription.
                         <br>
+                        <br>
+
+                        <h3>Pour conclure</h3>
+
+                        Fidscan est une application qui peut être utile du côté entreprise dans le cadre de la fidélisation de ses clients, c'est une application
+                        avec un certains potentiel, pour le moment Fidscan n'est pas terminé car de nombreux projets sont en cours chez BBND.
+                        Fidscan n'est pas une nouveauté en soit par exemple nous avons deja le wallet de chez Apple dans ses Iphones, en revanche
+                        Fidscan apporte la fonctionnalité de scanner le QR code de l'entreprise afin de facilité et de rendre plus rapide la récolte de données pour les professionnels.
+
+                        <br>
+                        <br>
+
+                        <h2>Stéganographie</h2>
+
+                        Après Fidscan j'ai eu comme mission tout d'abord de m'intérésser au concept de la Stéganographie pour ce faire j'ai du effectuer quelques recherches
+                        sur ce qu'est ce concept. Il faut savoir que la stéganographie est l'art de la dissimulation son objet est de faire passer inaperçu un message dans un autre message. Elle se distingue de la cryptographie, « art du secret »,
+                        qui cherche à rendre un message inintelligible à autre que qui-de-droit.
+                        <br>
+                        Pour ce projet je n'ai pas eu besoin de programmer directment j'ai eu comme consigne de la part de mon tuteur d'entamer une démarche de recherche et de compréhension car de nombreux projet sur le sujet existait déja.
+                        Je me suis naturellement tourné vers Github afin de pouvoir trouvé directement des projets de stéganographie fait dans le langage Python.
+                        <br>
+                        <br>
+
+
+                        <img src="img/gitste.png" height="500" width="800">
+                        <br>
+
+                        Suite à mes recherches je suis tombé sur un projet nommé LastBitSuite que j'ai pu alors récupérer afin de l'étudier et de comprendre le mécanisme.
+                        Le projet LastBitSuite se base sur la modification d'un bit à chaque octet RVB qui compose chaque pixel de l'image. En retirant 1 bit, on dégrade l'image, mais ce n'est pas visible à l'oeil nu.
+                        De ce fait, on peut récupérer ce bit à chaque fois et l'utiliser pour stocker les données que l'on souhaite. Nous récupérons donc 1/8e de la taille de l'image pour cacher une information ou un document.<br>
+
+                        Ce projet se décompose en plusieurs parties:<br>
+                        - Nous avons la classe LastBitHideFile qui permet de cacher un fichier dans une image.<br>
+                        - Nous avons la classe LastBitRevealFile qui permet d'extraire le fichier caché.<br>
+                        - Nous avons la classe Crypto qui permet de crypter le fichier à cacher/extraire.<br>
+                        - Nous avons la classe Core qui est le corps du programme.<br>
+                        <br>
+
+                        <img src="img/lsb3.png" height="500" width="500">
+                        <img src="img/lsb1.png" height="500" width="500">
+                        <img src="img/lsb2.png" height="500" width="500">
+                        <br>
+
+
+
+
+
                     </div>
 
                 </div>
