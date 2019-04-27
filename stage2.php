@@ -13,7 +13,7 @@ require("header.php");
                     <h2>Stage chez BBND</h2>
                     <img src="img/logobbnd.jpg"align="right">
 
-                    <p>Lors de ma deuxième j'ai effectué mon stage au sein de l'entreprise BBND ( Big Bang Network Développement) à Lille, BBND est une agence SSII dont l'activité s'oriente autour du développement informatique et de la communication multisupport.
+                    <p>Lors de ma deuxième année j'ai effectué mon stage au sein de l'entreprise BBND ( Big Bang Network Développement) à Lille, BBND est une agence SSII dont l'activité s'oriente autour du développement informatique et de la communication multisupport.
                         J'ai effectué 7 semaines au sein de leur structure lors de ce stage ( 07/01/2019 au 22/02/2019).
                         Au cours de cette période j'ai eu l'occasion de travailler sur différents projets tels qu'une application lourde faite en java (Fidscan)
                     </p>
@@ -52,6 +52,22 @@ require("header.php");
                         Sur la première image, il s'agit du système de connexion à la base de données de l'application Fidscan avec l'adresse en local de celle-ci ainsi que les identifiants de connexion et le retour d'un message en cas d'erreur.
                         <br>
                         Sur la deuxième image il s'agit de la classe Main du programme c'est à dire celle qui lance la page de connexion de l'application Fidscan avec une requête permettant de récupérer toutes les données de la table entreprise avec les identifiants associé aux comptes.
+                    </div>
+                    <br>
+
+                    <div class="row">
+                        <div class="col">
+                            <img src="img/bddfidscan.png" height="400" width="1500">
+
+                        </div>
+                        <br>
+                        Voici la structure de la base de donnée qui contient 5 tables: <br>
+                        - La table Login qui permet d'enregistrer/Stocker les identifiants de connexion des entreprises (Login et mot de passe)<br>
+                        - La table Pro qui contient toutes les informations de l'entreprise (Numéro de siret, code NAF ou APE, etc.)<br>
+                        - La table User qui contient les données des clients ayant scanné le QR code de l'entreprise<br>
+                        - La table champsaddlibre qui permet à l'entreprise de choisir les champs de ses clients qu'elle souhaite récupérer dans le cadre de démarches commercial ou autres<br>
+                        - La table Userregister qui permet au client de renseigner ses informations lors de son inscription.
+                        <br>
                     </div>
 
                 </div>
