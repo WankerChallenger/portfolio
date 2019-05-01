@@ -11,7 +11,7 @@ require("header.php");
                 <div class="section-title">
 
                     <h2>Stage chez BBND</h2>
-                    <img src="img/logobbnd.jpg"align="right">
+                    <img src="img/BBND/logobbnd.jpg"align="right">
 
                     <p>Lors de ma deuxième année j'ai effectué mon stage au sein de l'entreprise BBND ( Big Bang Network Développement) à Lille, BBND est une agence SSII dont l'activité s'oriente autour du développement informatique et de la communication multisupport.
                         J'ai effectué 7 semaines au sein de leur structure lors de ce stage ( 07/01/2019 au 22/02/2019).
@@ -23,7 +23,7 @@ require("header.php");
 
                     <div class="row" >
                         <div class="col">
-                            <img src="img/fid.png" height="500" width="700">
+                            <img src="img/BBND/fid.png" height="500" width="700">
                         </div>
 
                            <br> Fidscan est une application dites desktop c'est-à-dire qu'elle est utilisable uniquement sur ordinateur.
@@ -36,7 +36,7 @@ require("header.php");
                     <br>
                     <div class="row">
                         <div class="col">
-                            <img src="img/fid1.png" height="700" width="800">
+                            <img src="img/BBND/fid1.png" height="700" width="800">
                         </div>
                     <br>
                         Pour commencer l'entreprise souhaitant utiliser Fidscan doit s'inscrire en renseignant diverses informations telles que son numéro de Siret, son code APE ou NAF, son adresse, etc.<br>
@@ -46,8 +46,8 @@ require("header.php");
 
                     <div class="row">
                         <div class="col">
-                            <img src="img/dbconnectfidmodif.png" height="500" width="500">
-                            <img src="img/mainfidmodif.png" height="500" width="500">
+                            <img src="img/BBND/dbconnectfidmodif.png" height="500" width="500">
+                            <img src="img/BBND/mainfidmodif.png" height="500" width="500">
                         </div>
                         <br>
                         Sur la première image, il s'agit du système de connexion à la base de données de l'application Fidscan avec l'adresse en local de celle-ci ainsi que les identifiants de connexion et le retour d'un message en cas d'erreur.
@@ -58,7 +58,7 @@ require("header.php");
 
                     <div class="row">
                         <div class="col">
-                            <img src="img/bddfidscan.png" height="400" width="1500">
+                            <img src="img/BBND/bddfidscan.png" height="400" width="1500">
 
                         </div>
                         <br>
@@ -93,7 +93,7 @@ require("header.php");
                         <br>
 
 
-                        <img src="img/gitste.png" height="500" width="800">
+                        <img src="img/BBND/gitste.png" height="500" width="800">
                         <br>
 
                         Suite à mes recherches je suis tombé sur un projet nommé LastBitSuite que j'ai pu alors récupérer afin de l'étudier et de comprendre le mécanisme.
@@ -107,9 +107,9 @@ require("header.php");
                         - Nous avons la classe Core qui est le corps du programme.<br>
                         <br>
 
-                        <img src="img/lsb3.png" height="500" width="500">
-                        <img src="img/lsb1.png" height="500" width="500">
-                        <img src="img/lsb2.png" height="500" width="500">
+                        <img src="img/BBND/lsb3.png" height="500" width="500">
+                        <img src="img/BBND/lsb1.png" height="500" width="500">
+                        <img src="img/BBND/lsb2.png" height="500" width="500">
                         <br>
 
 

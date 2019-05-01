@@ -57,9 +57,8 @@
                     <li><a href="compétence.php">Compétences</a></li>
                     <li class="menu-has-children"><a href="#">E6</a>
                         <ul>
-                            <li><a href="veilletechno.php">Veille Technologique</a></li>
+                            <li><a href="React.php">React</a></li>
                             <li><a href="etudecompo.php">Etude d'un composant</a></li>
-                            <li><a href="ppe1.php">Projet Personnel Encadré 1</a></li>
                             <li><a href="ppe2.php">MarieTeam</a></li>
                             <li><a href="stage1.php">Satim/La Villa Fleurie</a></li>
                             <li><a href="stage2.php">BBND</a></li>

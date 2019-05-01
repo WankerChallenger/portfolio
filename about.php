@@ -27,7 +27,6 @@ require("header.php");
 		<div class="container">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6 about-left">
-					<img class="img-fluid" src="img/about-img.jpg" alt="">
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
@@ -35,10 +34,9 @@ require("header.php");
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-							Bla bla plus précis
-						</p>
-						<p>encore plus de précision
-
+                            Actuellement étudiant en 2éme année de BTS SIO spécialité SLAM (solution logiciel application métier) j'ai créé ce portfollio dans le cadre de mon examen E6 dans le but de prouver et valider mes compétences.
+                            Ce portfeuille est en lien avec mes stage effectués dans le cadre du BTS et des projets réalisés lors du Projet Personnel Encadré,
+                            j'ai effectué un premier stage dans les société Satim et La Villa Fleurie et un second chez BBND une BBND est une agence SSII dont l'activité s'oriente autour du développement informatique et de la communication multisupport. Dans lequel j'ai mené un projet de developpement qui est présentés dans la section projet.
 						</p>
 					</div>
 				</div>
